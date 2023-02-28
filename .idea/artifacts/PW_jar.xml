@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="PW:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/PW_jar</output-path>
+    <root id="archive" name="PW.jar">
+      <element id="module-output" name="PW" />
+    </root>
+  </artifact>
+</component>
